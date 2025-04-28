@@ -17,7 +17,6 @@
 
 💻 I'm constantly learning, experimenting, and building cool things with code.
 
- Born in 2003, eager to contribute to the future of technology!
 
 ---
 
