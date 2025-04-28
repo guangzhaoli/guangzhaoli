@@ -23,18 +23,10 @@
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/507615/94222876-431f8c00-ff30-11ea-80a9-3843a49013c3.gif" width="24" /> <b>Current Focus</b> </p>
 
-*   🧠 Diving deep into **Generative Models** for video (Diffusion Models, GANs, VAEs, etc.).
+*   🧠 Diving deep into **Generative Models** for video (AR, Diffusion Models, GANs, VAEs, etc.).
 *   🚀 Exploring **Efficient Model Architectures** and deployment for real-time video applications.
 *   🛠️ Building projects related to **AI-powered Video Editing & Synthesis**.
 *   📚 Learning more about **Computer Vision** fundamentals relevant to video analysis.
-
----
-
-
-*   **Languages:** Python, C/C++, (add others like Java, etc.)
-*   **AI/ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, OpenCV
-*   **Tools:** Git, Docker, Linux/Ubuntu
-*   *(Feel free to add more specific libraries like Hugging Face Transformers, Keras, etc.)*
 
 ---
 
