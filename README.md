@@ -9,12 +9,6 @@
  <a href="[你的邮箱地址]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
-  <a href="[你的领英档案链接，如果没有可以删除]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-   <a href="[你的个人网站或博客链接，如果没有可以删除]" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Blog-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="My Personal Website"/>
-  </a>
 </p>
 
 ---
@@ -42,18 +36,6 @@
 
 ---
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/507615/94223609-e0e5d080-ff30-11ea-886d-155966463adc.gif" width="24" /> <b>Tech Stack & Tools</b> </p>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
-  <!-- Add other languages/tools you use, e.g., C++, Java, Linux -->
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> -->
-</p>
 
 *   **Languages:** Python, C/C++, (add others like Java, etc.)
 *   **AI/ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, OpenCV
@@ -62,25 +44,13 @@
 
 ---
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/507615/94224179-ae50e980-ff31-11ea-90ff-373c05de6099.gif" width="24" /> <b>GitHub Stats</b> </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guangzhaoli&show_icons=true&locale=en&theme=radical&rank_icon=github" alt="guangzhaoli's GitHub Stats" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guangzhaoli&layout=compact&locale=en&theme=radical" alt="guangzhaoli's Top Languages" />
-</p>
-
-<!-- You can choose other themes like: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-
----
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/507615/94224179-ae50e980-ff31-11ea-90ff-373c05de6099.gif" width="24" /> <b>Connect with Me</b> </p>
 
 📫 How to reach me:
 
-*   📧 Email: **[你的邮箱地址]**
-*   💼 LinkedIn: **[你的领英档案链接]** (如果添加了上面的徽章)
-*   🌐 Website/Blog: **[你的个人网站或博客链接]** (如果添加了上面的徽章)
+*   📧 Email: **[gzhao.cs@gmail.com]**
+
 *   💬 Or feel free to open an Issue on any of my repositories!
 
 ---
