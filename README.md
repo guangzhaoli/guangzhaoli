@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=guangzhaoli&label=Profile%20views&color=0e75b6&style=flat" alt="guangzhaoli" />
 </p>
 
-<p align="center">
- <a href="gzhao.cs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-</p>
-
 ---
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/507615/94222825-1fedcc00-ff30-11ea-81fb-24765741f52c.gif" width="24" /> <b>About Me</b></p>
@@ -49,7 +43,7 @@
 
 📫 How to reach me:
 
-*   📧 Email: **[gzhao.cs@gmail.com]**
+*   📧 Email: **gzhao.cs@gmail.com**
 
 *   💬 Or feel free to open an Issue on any of my repositories!
 
