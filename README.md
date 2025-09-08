@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/507615/94222825-1fedcc00-ff30-11ea-81fb-24765741f52c.gif" width="24" /> <b>About Me</b></p>
 
-🎓 I'm currently a **Junior (大三)** pursuing a degree in **Software Engineering** at **Central South University (中南大学)**.
+🎓 I'm currently a **PhD student (Year 0)** at **Shanghai Jiao Tong University (上海交通大学)**.
 
 🌱 My primary research interest lies in the fascinating field of **AI Generated Content (AIGC)**.
 
